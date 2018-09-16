@@ -1,4 +1,4 @@
-585034a1a880f70ffd2740b29205cd02 *DESCRIPTION
+d245cb824845a2e4f6b8ab2038d91128 *DESCRIPTION
 3190fdbb21acd44b64d1c15850fec7fa *NAMESPACE
 b3b026a46bd21378f2afa4cdfb4e4951 *NEWS.md
 3005e52ad085f272dd72fbde08c6203e *R/aaa-colors.r
@@ -11,10 +11,10 @@ d3313f51f2d4dc854b7565400f3a8c5d *R/ggsenate.r
 088a4911d7640873fd4565058ec443bc *R/roll-call.r
 f52c6c73d2bca637c14c3fd17b4ae168 *R/theme.r
 b785067d5aac98e7eb9eccc9f0856c86 *R/voteogram-package.R
-83ab4db754fac07f4d537b636f915a7f *build/vignette.rds
-917c143e702a810ee570150ec6c4746b *inst/doc/intro_to_voteogram.R
-6b9ef2ecf2f981d0782f03c1e2358aff *inst/doc/intro_to_voteogram.Rmd
-e7690f32c0c2084941d03ed81b90e673 *inst/doc/intro_to_voteogram.html
+6ac77e9b439bb5239f172151e07210cd *build/vignette.rds
+196a15634e71fff31a5d9cc0a22c4ff4 *inst/doc/intro_to_voteogram.R
+7ca30dc7da74d2522f4fa71d61c6e2c1 *inst/doc/intro_to_voteogram.Rmd
+ad3e0dc1c10d6fa666e4dc881123fa8f *inst/doc/intro_to_voteogram.html
 4ee9e9d24f0fb6aa5e4b6b965e0e8abd *inst/extdata/rep.rds
 1fc9ffcfec5e1f02d128d25e9b798c68 *inst/extdata/sen.rds
 e085b0c876f2098dc70ad64933f10f9b *man/fortify.pprc.Rd
@@ -28,4 +28,4 @@ aaa87ec9f9582266db0e8dcd67b10263 *man/voteogram-colors.Rd
 1e3559d9de04f5a713ea9c79d83eaf2e *man/voteogram.Rd
 8799f2479c98a8b8ad295530e620fcc9 *tests/test-all.R
 f503649b2b62e624f47ea5965a744bfe *tests/testthat/test-voteogram.R
-6b9ef2ecf2f981d0782f03c1e2358aff *vignettes/intro_to_voteogram.Rmd
+7ca30dc7da74d2522f4fa71d61c6e2c1 *vignettes/intro_to_voteogram.Rmd

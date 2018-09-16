@@ -17,12 +17,12 @@ sen <- readRDS(system.file("extdata", "sen.rds", package="voteogram"))
 rep <- readRDS(system.file("extdata", "rep.rds", package="voteogram"))
 
 ## ------------------------------------------------------------------------
-sen
+str(sen)
 
 sen$votes
 
 ## ------------------------------------------------------------------------
-rep
+str(rep)
 
 fortify(rep)
 
