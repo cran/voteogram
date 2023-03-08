@@ -1,8 +1,8 @@
 Package: voteogram
 Type: Package
 Title: United States House and Senate Voting Cartogram Generators
-Version: 0.3.1
-Date: 2018-09-16
+Version: 0.3.2
+Date: 2023-03-08
 Authors@R: c(
     person("Bob", "Rudis", email = "bob@rud.is", role = c("aut", "cre"), 
            comment = c(ORCID = "0000-0001-5670-2640")),
@@ -20,13 +20,13 @@ Encoding: UTF-8
 License: AGPL
 Suggests: testthat, covr, knitr, rmarkdown
 Depends: R (>= 3.2.0)
-Imports: ggplot2, dplyr, scales, jsonlite, utils
-RoxygenNote: 6.0.1.9000
+Imports: ggplot2 (>= 3.4.1), dplyr, scales, jsonlite, tibble, utils
+RoxygenNote: 7.2.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2018-09-16 21:13:31 UTC; hrbrmstr
+Packaged: 2023-03-08 12:04:45 UTC; hrbrmstr
 Author: Bob Rudis [aut, cre] (<https://orcid.org/0000-0001-5670-2640>),
   ProPublica [cph] (Cartogram SVGs used to make the plot data.frames),
   GovTrack [cph] (Cartogram SVG used to make the plot data.frame)
 Repository: CRAN
-Date/Publication: 2018-09-16 21:30:03 UTC
+Date/Publication: 2023-03-08 12:20:02 UTC
